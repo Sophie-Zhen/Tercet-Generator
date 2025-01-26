@@ -1,0 +1,10 @@
+softly
+slowly
+gently
+quietly
+brightly
+peacefully
+gracefully
+silently
+swiftly
+tenderly

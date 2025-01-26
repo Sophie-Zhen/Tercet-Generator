@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tercet Generator</title>
+    <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tercet Generator</h1>
+        <div class="generator-box">
+            <div class="controls">
+                <select id="generation-method">
+                    <option value="rule_based">Rule-Based</option>
+                    <option value="llm_based">LLM-Based</option>
+                </select>
+                <button id="generate-btn">Generate Tercet</button>
+            </div>
+            <div class="tercet-display">
+                <p id="tercet-text">Your tercet will appear here...</p>
+            </div>
+        </div>
+        <div class="history-box">
+            <h2>Generated Tercets</h2>
+            <div id="tercet-history"></div>
+        </div>
+    </div>
+    <script src="/main.js"></script>
+</body>
+</html>

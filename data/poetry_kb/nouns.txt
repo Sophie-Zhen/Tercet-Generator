@@ -1,0 +1,14 @@
+moon
+river
+wind
+tree
+bird
+cloud
+star
+flower
+ocean
+mountain
+leaf
+dream
+shadow
+light

@@ -1,0 +1,20 @@
+# Core ML/AI packages (installed via conda)
+torch==2.5.1
+torchvision==0.20.1
+numpy==2.2.1
+
+# Web Framework (installed via conda)
+flask==3.1.0
+flask-cors==3.0.10
+
+# NLP and ML packages (installed via pip)
+transformers==4.48.1
+nltk==3.9.1
+
+# Utilities (installed via pip)
+python-dotenv==1.0.0
+requests==2.31.3
+
+# Note: This project uses Python 3.10
+# Environment can be created with:
+# conda create -n tercet python=3.10
